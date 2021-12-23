@@ -1,2 +1,2 @@
-# SpringLab
+# Spring
 Online computer rental
